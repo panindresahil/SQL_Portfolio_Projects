@@ -1,7 +1,16 @@
 # SQL_Portfolio_Projects
 
-SQL Portfolio Project.
+_**SQL Portfolio Project.**_
 
-Problem Statement :- Analaysis of Atliq Hardware's financial segment, Sales segment and Supply Chain segment.
+**Task** :- Query Ad-Hoc requests for Consumers Goods company.
 
-This project is part of assignments of the course "SQL Beginner to Advanced For Data Professionals" from Codebasics.ai
+**Dataset** **Overview**:- Atliq Hardware is one of the leading computer hardware producers in India and well expanded in other countries too. However, the management noticed that they do not get enough insights to make quick and smart data-informed decissions. As a Data Analyst Consultant for Atliq's Hardware I am tasked to create some KPIs in Sales, Finance and Supply Chain domains.
+
+**Tools Used** :- SQL, MySQL, Google
+
+**Knowledge Gained** :- 1. Use of Basic SQL Aggregate functions for generating summary reports on company's financial and sales data.
+                        2. Use of Advanced SQL concepts (CTEs, Subqueries, Window Functions) for creating KPIs like (Top 10 prouducts, Gross Sales, Net Sales, ...)
+                        3. Domain knowledge for KPIs creation.
+
+
+
